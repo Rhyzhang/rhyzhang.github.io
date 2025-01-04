@@ -8,7 +8,8 @@ permalink: /gratitude/
 
 (In the works, there are a lot of thanks to give)
 
-On promoting civil society and charity.
+On promoting goverment initiatives, civil societies, institutions, and charities for
+society.
 
 Thanks yous too:
 
@@ -20,4 +21,7 @@ Thanks yous too:
 Youth
 - Parents: Everything
 - PennyHarvest: Values
+- APEX For Youth: For taking care of me as an elementary school student on the 
+    weekends
 - NYCDOE: Many Teachers and free education
+    - Mr. Lin
