@@ -1,3 +1,7 @@
+Read through this to update template:
+https://stackoverflow.com/questions/56577184/github-pull-changes-from-a-template-repository
+
+
 # al-folio
 
 <div align="center">
