@@ -8,7 +8,7 @@ permalink: /gratitude/
 
 Here's my appreciation for some of the governmental initiatives, civil societies,
 institutions, charities, non-profit organizations, and individuals who have helped
-me grow. They are listed in no particular order, and I’m sure I've unintentionally 
+me grow. They are listed in no particular order, and I'm sure I've unintentionally 
 missed many that have had a significant impact on me.
  
 Thank yous too:
@@ -21,7 +21,7 @@ Thank yous too:
 - *All the teachers I've had
 
 ## Institutions:
-- Columbia: Oppurtunity to continue education, financial aid
+- Columbia: Opportunity to continue education, financial aid
 - NYU: ARISE (The Pinkerton Foundation), EFL Young Ambassador
 - NYCDOE: A free education, Pathfinders Program
 
@@ -41,7 +41,7 @@ Thank yous too:
 ## Government:
 - Queens Public Library: Amazing book selections, reading taught me so much.
 - New York Public Library: Internet and computer access when I did not have
-    them at home during elementary school. A warm environment to stay with friends
+    them at home in my elementary school years. A warm environment to stay with friends
     during rainy weekends. Allowed us to play minecraft when we couldn't afford to.
 
 ## Miscellaneous:
