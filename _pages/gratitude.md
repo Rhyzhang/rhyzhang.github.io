@@ -11,7 +11,7 @@ institutions, charities, non-profit organizations, and individuals who have help
 me grow. They are listed in no particular order, and I’m sure I've unintentionally 
 missed many that have had a significant impact on me.
  
-Thanks yous too:
+Thank yous too:
 
 ## People:
 - Parents: Everything
@@ -38,13 +38,13 @@ Thanks yous too:
 - GripTape
 - American Red Cross
 
-## Government
+## Government:
 - Queens Public Library: Amazing book selections, reading taught me so much.
 - New York Public Library: Internet and computer access when I did not have
     them at home during elementary school. A warm environment to stay with friends
     during rainy weekends. Allowed us to play minecraft when we couldn't afford to.
 
-## Miscellaneous
+## Miscellaneous:
 - YouTube
 - Coursera
 - MOOCs
