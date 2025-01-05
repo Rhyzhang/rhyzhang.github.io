@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a student who is fascinated by technology's ability to improve the lives of humans all around the world. I am passionate about all things tech from the most recent
-software and hardware breakthroughs to the policy, economics, and history of tech. My dream is to be able to contribute to the frontiers of computer science and AI.
+Hi! I am a student who is fascinated by technology's ability to improve the lives of humans all around the world. I am passionate about all things tech from the most
+recent software and hardware breakthroughs to the policy, economics, and history of tech. My ultimate goal is to make meaningful contributions to the fields of computer science and AI. At the moment, I’m exploring academia, policy, and industry to see where my strengths align and where I can make the greatest impact!
 
 Education:
 - Columbia University 2028
