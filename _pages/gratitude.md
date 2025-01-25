@@ -11,7 +11,7 @@ institutions, charities, non-profit organizations, and individuals who have help
 me grow. They are listed in no particular order, and I'm sure I've unintentionally 
 missed many that have had a significant impact on me.
  
-Thank yous too:
+Thank yous to:
 
 ## People:
 - Parents: Everything
