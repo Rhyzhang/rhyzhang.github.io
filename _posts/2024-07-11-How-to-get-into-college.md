@@ -5,6 +5,7 @@ date: 2024-07-11 00:01:00
 description: Anecdotal advice for HS underclassmen
 tags: opinions
 categories: ideas
+thumbnail: assets/img/CU_Postcard.jpg
 ---
 
 

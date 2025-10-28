@@ -5,11 +5,11 @@ date: 2025-10-27 00:01:00
 description: On high school research oppurtunities.
 tags: opinions
 categories: ideas
-thumbnail: assets/img/ARISE_2025.JPG
+thumbnail: assets/img/ARISE_2025.jpg
 ---
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/ARISE_RZ_Group_2025.JPG" class="img-fluid rounded z-depth-1" width="500"%}
+{% include figure.liquid loading="eager" path="assets/img/ARISE_RZ_Group_2025.jpg" class="img-fluid rounded z-depth-1" width="500"%}
 </div>
 <div class="caption">
 	My advisees! (missing AG and KC)
@@ -31,7 +31,7 @@ For a student like me, being passionate, resilient, and decent at academics is n
 
 For me, ARISE was that signal.
 
-It was more than just a summer program; it was the first true platform I ever had. Joining Professor Daniel Neill’s Machine Learning For Good Lab, I was immediately exposed to real, high-level research. I was assigned to a project that had stalled. With the generous and amazing mentorship of Professor Neill, I was able to help get it moving again, building a working model and gaining an understanding of its inner workings. It was the first time I saw my passion translate into a tangible result. **I still remember the high from Professor Neill’s feedback, “great work in such a short amount of time.”**
+It was more than just a summer program; it was the first true platform I ever had. Joining Professor Daniel Neill’s Machine Learning For Good Lab, I was immediately exposed to real, high-level research. I was assigned to a project that had stalled. With the generous and amazing mentorship of Professor Neill, I was able to help get it moving again, building a working model and gaining an understanding of its inner workings. It was the first time I saw my passion translate into a tangible result. I still remember the high from Professor Neill’s feedback, “great work in such a short amount of time.”
 
 But the most transformative part? The validation. For a random no-name kid, uncertainty is a constant companion. That recommendation letter, that confirmation from a professor that *I was good at this*, was life-changing. ARISE didn't just give me skills; it gave me confidence.
 
@@ -51,7 +51,7 @@ ARISE is a signal for all normal, ambitious kids that there is an opportunity fo
 
 For this area of impact, only the sky is the limit. I urge the continued support of changing the lives of low-income students.
 
-{% include figure.liquid loading="eager" path="assets/img/ARISE_2025.JPG" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/ARISE_2025.jpg" class="img-fluid rounded z-depth-1" %}
 
 
 > Many thanks to Luann William Moore, the director of the ARISE program. Having worked behind the scenes, I now understand the immense effort that goes into running these programs. Luann's passion and vision, along with her dedicated team, are what made ARISE a great experience.
