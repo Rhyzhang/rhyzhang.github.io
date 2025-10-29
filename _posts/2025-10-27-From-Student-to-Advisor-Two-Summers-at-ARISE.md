@@ -5,11 +5,11 @@ date: 2025-10-27 00:01:00
 description: On high school research oppurtunities.
 tags: opinions
 categories: ideas
-thumbnail: assets/img/ARISE_2025.jpg
+thumbnail: assets/img/2.jpg
 ---
 
 <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/ARISE_RZ_Group_2025.jpg" class="img-fluid rounded z-depth-1" width="500"%}
+{% include figure.liquid loading="eager" path="assets/img/1.jpg" class="img-fluid rounded z-depth-1" width="500"%}
 </div>
 <div class="caption">
 	My advisees! (missing AG and KC)
@@ -51,7 +51,7 @@ ARISE is a signal for all normal, ambitious kids that there is an opportunity fo
 
 For this area of impact, only the sky is the limit. I urge the continued support of changing the lives of low-income students.
 
-{% include figure.liquid loading="eager" path="assets/img/ARISE_2025.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/2.jpg" class="img-fluid rounded z-depth-1" %}
 
 
 > Many thanks to Luann William Moore, the director of the ARISE program. Having worked behind the scenes, I now understand the immense effort that goes into running these programs. Luann's passion and vision, along with her dedicated team, are what made ARISE a great experience.
