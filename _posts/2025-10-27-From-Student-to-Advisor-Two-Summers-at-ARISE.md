@@ -8,13 +8,6 @@ categories: ideas
 thumbnail: assets/img/ARISE_2025.jpg
 ---
 
-<!-- <div class="text-center">
-{% include figure.liquid loading="eager" path="assets/img/1.jpg" class="img-fluid rounded z-depth-1" width="500"%}
-</div>
-<div class="caption">
-	My advisees! (missing AG and KC)
-</div> -->
-
 *Note: Names of **students** have been changed to protect privacy. (This does not apply to Professor Neill, Luann, and names in the footer)*
 
 There are two stories of an ambitious high schooler in New York City.
