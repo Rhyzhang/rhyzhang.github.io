@@ -37,8 +37,10 @@ flowchart TD
     classDef app fill:#e0f2f1,stroke:#00695c,stroke-width:2px;
     classDef file fill:#eeeeee,stroke:#9e9e9e,stroke-width:1px,stroke-dasharray: 5, 5;
 
+    %% REMOVED QUOTES INSIDE BRACKETS BELOW
     subgraph Store1 [Store 1: Christopher Local Machine]
         direction TB
+        %% REMOVED QUOTES INSIDE DB NODES TO PREVENT LITERAL QUOTES RENDERING
         ChrisDB[(SQL Server)]:::database
         ChrisCron((Cron Job)):::script
         ChrisExtract["Extract & Clean Script (Drops PII/Sensitive Data)"]:::script
@@ -52,6 +54,7 @@ flowchart TD
         ChrisCron -.->|Trigger| ChrisUpload
     end
 
+    %% REMOVED QUOTES INSIDE BRACKETS BELOW
     subgraph Store2 [Store 2: Rebecca Local Machine]
         direction TB
         RebDB[(Access DB)]:::database
