@@ -29,18 +29,18 @@ Instead, I decided to keep the legacy infrastructure and build a data and analyt
   }
 </style>
 <div class="mermaid" style="overflow: visible; height: auto; min-height: 800px;">
-  flowchart TD
+flowchart TD
     %% Styling
     classDef database fill:#e1f5fe,stroke:#0277bd,stroke-width:2px;
     classDef script fill:#fff9c4,stroke:#fbc02d,stroke-width:2px;
     classDef cloud fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px;
     classDef app fill:#e0f2f1,stroke:#00695c,stroke-width:2px;
-    classDef file fill:#eeeeee,stroke:#9e9e9e,stroke-width:1px,stroke-dasharray: 5 5;
+    classDef file fill:#eeeeee,stroke:#9e9e9e,stroke-width:1px,stroke-dasharray: 5, 5;
 
-    subgraph Store1 ["Store 1: Christopher (Local Machine)"]
+    subgraph Store1 [Store 1: Christopher Local Machine]
         direction TB
-        ChrisDB[("SQL Server")]:::database
-        ChrisCron(("Cron Job")):::script
+        ChrisDB[(SQL Server)]:::database
+        ChrisCron((Cron Job)):::script
         ChrisExtract["Extract & Clean Script (Drops PII/Sensitive Data)"]:::script
         ChrisCSV["Cleaned CSVs"]:::file
         ChrisUpload["Upload Script (Google Drive API)"]:::script
@@ -52,10 +52,10 @@ Instead, I decided to keep the legacy infrastructure and build a data and analyt
         ChrisCron -.->|Trigger| ChrisUpload
     end
 
-    subgraph Store2 ["Store 2: Rebecca (Local Machine)"]
+    subgraph Store2 [Store 2: Rebecca Local Machine]
         direction TB
-        RebDB[("Access DB")]:::database
-        RebCron(("Cron Job")):::script
+        RebDB[(Access DB)]:::database
+        RebCron((Cron Job)):::script
         RebExtract["Extract & Clean Script (Drops PII/Sensitive Data)"]:::script
         RebCSV["Cleaned CSVs"]:::file
         RebUpload["Upload Script (Google Drive API)"]:::script
@@ -67,14 +67,14 @@ Instead, I decided to keep the legacy infrastructure and build a data and analyt
         RebCron -.->|Trigger| RebUpload
     end
 
-    subgraph Cloud ["Cloud Storage"]
-        GDrive{{"Google Drive (Central Repository)"}}:::cloud
+    subgraph Cloud [Cloud Storage]
+        GDrive{{Google Drive Central Repository}}:::cloud
     end
 
-    subgraph Dashboard ["Dashboard Application"]
+    subgraph Dashboard [Dashboard Application]
         direction TB
         DownloadScript["Download Script (Google Drive API)"]:::script
-        DataFolder[("Local Data Folder")]:::file
+        DataFolder[(Local Data Folder)]:::file
         Ops["Operations.py (Data Processing)"]:::script
         UI["Streamlit Frontend"]:::app
 
