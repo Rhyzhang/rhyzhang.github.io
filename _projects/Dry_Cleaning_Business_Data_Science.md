@@ -13,7 +13,7 @@ mermaid:
 
 My parents operate two dry cleaning locations. Like many small business owners, they spent over 10 years basing business decisions on gut feeling and intuition. While their veteran status in the industry served them well, they lacked concrete data. Furthermore, migrating to modern software wasn't an option; new POS systems are expensive, and the learning curve would have been too steep given their limited English proficiency. Their current workflow is a well-oiled, efficient machine so it's definitely not a good idea to fix what isn’t broken!
 
-Instead, I decided to keep the legacy infrastructure but augment it with my software engineering and data science skills. Here is the project architecture:
+Instead, I decided to keep the legacy infrastructure and build a data and analytics layer on top of it using my software engineering and data science skills. Here is the project architecture:
 
 {% raw %}
 <style>
