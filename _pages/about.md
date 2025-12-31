@@ -15,16 +15,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a student who is fascinated by technology's ability to improve the lives of humans all around the world. I am passionate about all things tech from the most
-recent software and hardware breakthroughs to the policy, economics, and history of tech. My ultimate goal is to make meaningful contributions to the fields of computer science and AI. At the moment, I’m exploring academia, policy, and industry to see where my strengths align and where I can make the greatest impact!
+Hi! I am a Developer and Data Scientist passionate about building high-quality software and AI/ML systems. I deeply enjoy bridging the gap between theory and application by translating interesting research ideas into deployable, real-world solutions. I am currently seeking opportunities to contribute to high-impact teams in engineering or data science!
 
-Education:
+**Interests:** `Computing`, `History`, `Biology`, `Policy`, `Governance`, `Finance`, `Economics`
 
-- Columbia University 2028
-- Eleanor Roosevelt High School 2024
-
-Experience:
-
-- Junior researcher at Machine Learning For Good Lab
-- Young Ambassador at Endless Frontier Labs Stern
-- Civics Unplugged Digital Tech Fellow
+**Hobbies:**
+* Building organizations and software from scratch (0 → 1)
+* Forecasting emerging tech trends
+* Analyzing the socioeconomic impact of AI
+* Photography
