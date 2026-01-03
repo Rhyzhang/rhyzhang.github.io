@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vending Machine
-description: A 12-bit Finite State Machine built from scratch in Logisim
+description: A 12-bit Finite State Machine Built from Scratch in Logisim
 img: assets/img/vending_machine_main.png
 importance: 2
 category: work
@@ -11,7 +11,9 @@ related_publications: false
 
 ## Project Overview
 
-I completed this project for my high school Computational Thinking class to conclude our unit on Digital Systems Architecture. It serves as the culmination of everything we built from scratch, ranging from basic XOR gates and flip-flops to more complex components like adders, ripple counters, synchronous counters, and 4-bit multipliers.
+**GitHub Repository:** [ELROSTEM/computational-thinking - Boba Vending Machine](https://github.com/ELROSTEM/computational-thinking/tree/main/Unit1-LogicGates/RyanZhang2024/Boba_Vending_Machine)
+
+I completed this project for my Computational Thinking class to conclude our unit on Digital Systems Architecture. It serves as the culmination of everything we built from scratch, ranging from basic XOR gates and flip-flops to more complex components like adders, ripple counters, synchronous counters, and 4-bit multipliers.
 
 The system simulates the complete user experience from accepting multi-denomination currency, maintaining a credit balance, decoding user product selection, dispensing products, and calculating/dispensing precise change. The core challenge was orchestrating asynchronous user inputs into a synchronous, clock-driven system while managing a custom 12-bit datapath for financial calculations.
 

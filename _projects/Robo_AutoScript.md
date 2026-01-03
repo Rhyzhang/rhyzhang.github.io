@@ -3,7 +3,7 @@ layout: page
 title: Robo AutoScript
 description: Using LLMs for robotics planning and instructions (Pre-ChatGPT)
 img: assets/img/RoboAutoScript.png
-importance: 3
+importance: 4
 category: work
 related_publications: false
 ---
