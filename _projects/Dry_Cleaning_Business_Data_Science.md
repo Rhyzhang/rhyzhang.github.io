@@ -17,6 +17,10 @@ Instead, I decided to keep the legacy infrastructure and build a data and analyt
 
 {% include figure.liquid loading="eager" path="assets/img/ZLdashboard_Architecture.png" class="img-fluid rounded z-depth-1" %}
 
+Shown below is my father's first attempt at hand drawing a revenue graph using data from the books, all the way back in 2016!
+
+{% include figure.liquid loading="eager" path="assets/img/ZLdashboard_dads_revenue_graph.jpg" class="img-fluid rounded z-depth-1" %}
+
 ### 1. Reverse Engineering the POS Database Schemas
 
 To begin, I created a Google Drive data lake to centralize and clean sales data from both stores. This was challenging because the stores ran on two different versions of the Royal Touch Bluu software:
