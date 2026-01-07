@@ -28,6 +28,10 @@ To begin, I created a Google Drive data lake to centralize and clean sales data 
 - **Store 1:** Ran legacy V1.0 (c. 2010s). My mother stayed on this version as she found the interface familiar and easier to navigate.
 - **Store 2:** Ran V2.0 (c. 2020s) with enhanced features.
 
+{% include figure.liquid loading="eager" path="assets/img/ZLdashboard_Rebecca_and_Chirstopher_POS.jpg" class="img-fluid rounded z-depth-1" %}
+
+
+
 With no documentation for the database schemas, my first step was to reverse-engineer the storage logic, unlock the password-protected databases, and identify the tables containing analytics-relevant information.
 
 ### 2. Exporting the Tables
