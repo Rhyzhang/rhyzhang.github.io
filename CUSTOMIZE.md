@@ -70,6 +70,41 @@ You can create new projects by adding new Markdown files in the [\_projects](_pr
 
 You can add news in the about page by adding new Markdown files in the [\_news](_news/) directory. There are currently two types of news: inline news and news with a link. News with a link take you to a new page while inline news are displayed directly in the about page. The easiest way to create yours is to copy an existing news and modify it.
 
+To show news on your home page, make sure `news: true` is set in [_pages/about.md](_pages/about.md).
+
+### Inline news (shown directly on home page)
+
+Create a file in `_news/`, for example `_news/announcement_4.md`:
+
+```yaml
+---
+layout: post
+date: 2026-04-11 10:00:00-0400
+inline: true
+related_posts: false
+---
+
+Started a new AI engineering project focused on evaluation pipelines.
+```
+
+### News with its own page (clickable title)
+
+Create a file in `_news/`, for example `_news/announcement_5.md`:
+
+```yaml
+---
+layout: post
+date: 2026-04-11 11:00:00-0400
+inline: false
+title: New Publication Accepted
+related_posts: false
+---
+
+Our paper was accepted at XYZ 2026. More details coming soon.
+```
+
+With `inline: false`, the home page shows the title as a link, and the full text appears on that news post page.
+
 ## Adding Collections
 
 This Jekyll theme implements `collections` to let you break up your work into categories. The theme comes with two default collections: `news` and `projects`. Items from the `news` collection are automatically displayed on the home page. Items from the `projects` collection are displayed on a responsive grid on projects page.
